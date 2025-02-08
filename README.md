@@ -2,7 +2,7 @@
 ## Diseño y Arquitectura de Software
 ### Jorge Esteban Diaz Bernal, Laura Camila Rodriguez Leon, Juan Diego Martinez Escobar
 
-#### AudioPlayer
+### AudioPlayer
 
 ### Descripción del Problema:
 En este problema, tienes un reproductor de audio (`AudioPlayer`) que puede reproducir archivos de audio de distintos tipos, como MP3. Sin embargo, se ha introducido una nueva clase avanzada (`AdvancedAudioPlayer`) que puede reproducir formatos más avanzados como MP4 y VLC. Necesitas proporcionar una solución que permita a la clase `AudioPlayer` reproducir archivos utilizando la funcionalidad avanzada de la clase `AdvancedAudioPlayer` sin cambiar el código existente del reproductor de audio.
